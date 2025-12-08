@@ -14,10 +14,12 @@ This repository contains solutions implemented in both **Python** and **TypeScri
 | **Day 3** | Python | `day3.py`, `day3_part2.py` | Joltage calculation - finds maximum joltage from battery banks |
 | **Day 4** | TypeScript/React | `day4.tsx` | Forklift paper solver - grid-based puzzle with interactive UI |
 | **Day 5** | TypeScript/React | `day5_part1.tsx`, `day5_part2.tsx` | Ingredient checker - validates IDs against range constraints |
+| **Day 6** | Python | `day6_part1.py`, `day6_part2.py` | Math worksheet solver - parses column-based problems (top-to-bottom and right-to-left) |
+| **Day 7** | Python | `day7_part1.py`, `day7_part2.py` | Tachyon manifold simulator - beam splitting analysis and quantum timeline counting |
 
 ## 🚀 Running the Solutions
 
-### Python Solutions (Days 2-3)
+### Python Solutions (Days 2-3, 6-7)
 
 ```powershell
 # Run Day 2
@@ -26,6 +28,14 @@ python day2.py
 # Run Day 3
 python day3.py
 python day3_part2.py
+
+# Run Day 6
+python day6_part1.py
+python day6_part2.py
+
+# Run Day 7
+python day7_part1.py
+python day7_part2.py
 ```
 
 ### TypeScript/React Solutions (Days 4-5)
@@ -58,6 +68,9 @@ Solutions are implemented as:
 - ✅ Day 2: Complete
 - ✅ Day 3: Complete (Parts 1 & 2)
 - ✅ Day 4: Complete
+- ✅ Day 5: Complete (Parts 1 & 2)
+- ✅ Day 6: Complete (Parts 1 & 2)
+- ✅ Day 7: Complete (Parts 1 & 2)
 - ✅ Day 5: Complete (Parts 1 & 2)
 
 
